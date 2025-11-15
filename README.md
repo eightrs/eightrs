@@ -1,16 +1,20 @@
-## Hi there 👋
+# Eight Rs (8RS Token)
 
-<!--
-**eightrs/eightrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Rewarding the Circular Economy
 
-Here are some ideas to get you started:
+© 2025 Eight Rs. Licensed under CC BY-SA 4.0.  
+Attribution required for reuse. Commercial use requires permission.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+
+## What Is Eight Rs?
+
+Eight Rs adds a new “R” to the seven traditional principles of recycling:  
+**Reward**
+
+The Eight Rs platform issues the **8RS token** on the Stellar network to reward verified recycling actions. Consumers, municipalities, and businesses
+can earn small, instant, transparent digital incentives for sustainable behavior.
+
+This repository contains a *public, non-proprietary* version of the Eight Rs concept for community awareness, timestamping, and grant submissions.
+
+Core business logic and proprietary mechanisms are **not** included.
