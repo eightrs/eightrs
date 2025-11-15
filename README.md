@@ -31,8 +31,7 @@ To make recycling financially rewarding, environmentally transparent, and access
 
 - https://github.com/eightrs/eightrs/blob/docs/PUBLIC_CONCEPT.md  
 - https://github.com/eightrs/eightrs/blob/docs/ARCHITECTURE_OVERVIEW.md  
--
-https://github.com/eightrs/eightrs/blob/docs/VISION_STATEMENT.md 
+-https://github.com/eightrs/eightrs/blob/docs/VISION_STATEMENT.md 
 
 ---
 
